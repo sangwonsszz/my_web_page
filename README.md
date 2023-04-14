@@ -3,7 +3,7 @@
  
  # 자기소개 페이지
 
-![Profile Picture](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMjhfODMg%2FMDAxNjc3NTc3OTEwOTgz.OtIchNRtq36XScUou3qDImm-Fl-Sd_vOMraeIizwJdIg.FC_hCqD9-37daHW8N2RvZCTtjoIg4rwEYAWSKMx35J4g.JPEG.tngo1007%2F%25BD%25BA%25C6%25C4%25C0%25CC%25C6%25D0%25B9%25D0%25B8%25AE-001_%252811%2529.jpg&type=sc960_832)
+![Profile Picture](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMjNfMjg1%2FMDAxNjc3MTMyOTE5MTI4.bH1CTs9BIpz5NA7COBikfp_cWrx0KL636QqUykbri8Eg.CC1Lq6t0yqF5ivVy9vYjzbLq-K0g_4FacA-rkOluUXwg.JPEG.only1pink%2F230223-32.jpg&type=sc960_832)
 
 안녕하세요! 저는 박상원입니다. 데이터 엔지니어 입니다.
 
