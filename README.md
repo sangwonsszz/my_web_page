@@ -3,7 +3,7 @@
  
  # 자기소개 페이지
 
-![Profile Picture](image.png)
+![Profile Picture](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMjhfODMg%2FMDAxNjc3NTc3OTEwOTgz.OtIchNRtq36XScUou3qDImm-Fl-Sd_vOMraeIizwJdIg.FC_hCqD9-37daHW8N2RvZCTtjoIg4rwEYAWSKMx35J4g.JPEG.tngo1007%2F%25BD%25BA%25C6%25C4%25C0%25CC%25C6%25D0%25B9%25D0%25B8%25AE-001_%252811%2529.jpg&type=sc960_832)
 
 안녕하세요! 저는 박상원입니다. 데이터 엔지니어 입니다.
 
@@ -49,7 +49,6 @@
          tkddnjs9956@gmail.com
 - 블로그: [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/honggildong)](https://github.com/honggildong)
 - 깃허브: [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/honggildong)](https://github.com/sangwonsszz)
-# 자기소개 페이지
 
 ## 기술
 
