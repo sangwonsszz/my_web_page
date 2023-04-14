@@ -1,7 +1,5 @@
 # my_web_page
 나만의 홈페이지 만들기 by ChatGPT
- 
- # 자기소개 페이지
 
 ![Profile Picture](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMjNfMjg1%2FMDAxNjc3MTMyOTE5MTI4.bH1CTs9BIpz5NA7COBikfp_cWrx0KL636QqUykbri8Eg.CC1Lq6t0yqF5ivVy9vYjzbLq-K0g_4FacA-rkOluUXwg.JPEG.only1pink%2F230223-32.jpg&type=sc960_832)
 
